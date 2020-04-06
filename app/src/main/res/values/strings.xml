@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Tugass</string>
+    <string name="nama_depan" />
+    <string name="nama_belakang" />
+    <string name="tempat_lahir" />
+    <string name="tanggal_lahir" />
+    <string name="alamat" />
+    <string name="jenis_kelamin" />
+    <string name="laki_laki" />
+    <string name="perempuan" />
+    <string name="agama" />
+    <string name="islam" />
+    <string name="kristen" />
+    <string name="katolik" />
+    <string name="hindu" />
+    <string name="buddha" />
+    <string name="konghucu" />
+    <string name="aliran_kepercayaan" />
+    <string name="telepon" />
+    <string name="email" />
+    <string name="password" />
+    <string name="konfirmasi_password" />
+    <string name="invalid_name">Mohon diisi dulu</string>
+    <string name="invalid_phone">Diisi 12 digit</string>
+    <string name="invalid_email">Format email salah</string>
+    <string name="invalid_password">Masukkan 8 digit</string>
+    <string name="invalid_confirm">password salah</string>
+</resources>
